@@ -1,4 +1,4 @@
-# Hi, I'm Elham 👋
+# Hi, I'm Eli 👋
 
 I'm an MSc Biomedical Engineering student with a strong interest in **Medical AI, Machine Learning, and Biomedical Signal Processing**.
 
